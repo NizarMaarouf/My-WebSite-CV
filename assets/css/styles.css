@@ -9,10 +9,11 @@
 
 /*===== Colores =====*/
 :root{
-    --first-color: #4e3620;
-    --white-color: #FAFAFF;
-    --dark-color: #2A3B47;
-    --text-color: #697477;
+    --first-color: #350b40;
+    --white-color: #968c83;
+    --dark-color: #835858;
+-- text - color : #ff7b54;
+
 }
 
 /*===== Fuente y tipografia =====*/
@@ -242,7 +243,7 @@ img{
     margin-bottom: var(--mb-4);
 }
 .about__social-icon{
-    font-size: 1.4rem;
+    font-size: 2rem;
     margin: 0 var(--mb-1);
 }
 .about__social-icon:hover{
